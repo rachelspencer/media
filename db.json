@@ -15,39 +15,9 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
-      "userId": 1,
-      "title": "Modern Fresh Bike",
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Recycled Cotton Shirt",
-      "id": 12
-    },
-    {
       "userId": 3,
       "title": "Elegant Plastic Chicken",
       "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Awesome Soft Sausages",
-      "id": 14
-    },
-    {
-      "userId": 1,
-      "title": "Incredible Rubber Towels",
-      "id": 15
-    },
-    {
-      "userId": 1,
-      "title": "Tasty Steel Shirt",
-      "id": 16
     },
     {
       "userId": 1,
@@ -71,11 +41,6 @@
     },
     {
       "userId": 1,
-      "title": "Handmade Soft Ball",
-      "id": 21
-    },
-    {
-      "userId": 1,
       "title": "Unbranded Steel Soap",
       "id": 22
     },
@@ -88,6 +53,51 @@
       "userId": 3,
       "title": "Awesome Steel Table",
       "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Fresh Chair",
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "title": "Generic Concrete Gloves",
+      "id": 26
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Rubber Bacon",
+      "id": 27
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Metal Cheese",
+      "id": 28
+    },
+    {
+      "userId": 3,
+      "title": "Rustic Rubber Chicken",
+      "id": 29
+    },
+    {
+      "userId": 1,
+      "title": "Generic Metal Soap",
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Wooden Ball",
+      "id": 31
+    },
+    {
+      "userId": 4,
+      "title": "Fantastic Rubber Keyboard",
+      "id": 32
+    },
+    {
+      "userId": 4,
+      "title": "Intelligent Fresh Keyboard",
+      "id": 33
     }
   ],
   "photos": []

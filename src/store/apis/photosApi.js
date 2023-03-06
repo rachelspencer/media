@@ -24,10 +24,10 @@ const photosApi = createApi({
                     return {
                         url: '/photos',
                         method: 'POST',
-                        params: {
-                            albumID: album.id
-                        },
-                        body: faker.image.abstract(150, 150, true)
+                        body: {
+                            albumId: album.id,
+                            url: faker.image.abstract(150, 150, true)
+                        }
                     };
                 },
             }),
@@ -45,7 +45,7 @@ const photosApi = createApi({
 
 export const { 
     useFetchPhotosQuery, 
-    useAddPhotosMutation, 
-    useRemovePhotosMutation } 
+    useAddPhotoMutation, 
+    useRemovePhotoMutation } 
 = photosApi;
 export { photosApi };
